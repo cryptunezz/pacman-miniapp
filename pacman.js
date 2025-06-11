@@ -1417,5 +1417,4 @@ var PlayerSprite = function () {
 exports.default = PlayerSprite;
 
 },{"../constants.js":1}]},{},[4])
-
 //# sourceMappingURL=build.js.map
