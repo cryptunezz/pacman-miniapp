@@ -5,30 +5,42 @@
   font-style: normal;
 }
 
-#pacman {
-  width: 342px;
-  margin: 20px auto;
-}
-
-.pacman-game {
-  margin-top: 100px;
-  color: #fff;
-  text-transform: uppercase;
-      font-size: 1.5em;
-    text-align: center;
-}
-
 html {
   background: #000;
 }
+
 body {
-  width: 342px;
-  margin: 0px auto;
+  margin: 0;
+  padding: 0;
   font-family: "Press_Start_2P", cursive;
+  background: #000;
 }
+
+.pacman-game {
+  margin-top: 2em;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#pacman {
+  width: 100vw;           /* Full device width */
+  max-width: 400px;       /* Limit on desktop */
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+}
+
 canvas {
+  width: 100% !important;   /* Responsive! */
+  height: auto !important;
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
   font-family: "Press Start 2P", cursive;
 }
+
 a {
   text-decoration: none;
 }
