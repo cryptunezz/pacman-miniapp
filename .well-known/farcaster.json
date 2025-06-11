@@ -2,11 +2,11 @@
   "frame": {
     "version": "1",
     "name": "Pac-Man Mini",
-    "iconUrl": "https://YOUR-USERNAME.github.io/YOUR-REPO/icon.png",
-    "homeUrl": "https://YOUR-USERNAME.github.io/YOUR-REPO/",
-    "imageUrl": "https://YOUR-USERNAME.github.io/YOUR-REPO/screenshot.png",
+    "iconUrl": "https://cryptunezz.github.io/pacman-miniapp/icon.png",
+    "homeUrl": "https://cryptunezz.github.io/pacman-miniapp/",
+    "imageUrl": "https://cryptunezz.github.io/pacman-miniapp/screenshot.png",
     "buttonTitle": "Play",
-    "splashImageUrl": "https://YOUR-USERNAME.github.io/YOUR-REPO/icon.png",
+    "splashImageUrl": "https://cryptunezz.github.io/pacman-miniapp/icon.png",
     "splashBackgroundColor": "#000000",
     "requiredChains": [],
     "requiredCapabilities": []
